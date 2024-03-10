@@ -1,4 +1,4 @@
-# exe_calculadoraKM_L
+# calculadoraKM_L.emJAVA
 import java.util.Scanner;
 
 public class calculadoraConsumo {
